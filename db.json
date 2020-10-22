@@ -1,0 +1,22 @@
+{
+  "poruke": [
+    {
+      "id": 1,
+      "ime": "Ivana",
+      "prezime": "Radalj",
+      "email": "ivanaradalj1234@gmail.com"
+    },
+    {
+      "id": 2,
+      "ime": "Antonela",
+      "prezime": "Dragicevic",
+      "email": "adragicevic@gmail.com"
+    },
+    {
+      "ime": "ana",
+      "prezime": "matijasevic",
+      "email": "ana@gmail.com",
+      "id": 5
+    }
+  ]
+}
